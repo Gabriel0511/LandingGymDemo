@@ -55,7 +55,7 @@
           rel="noopener noreferrer"
           class="inline-block bg-oxigeno-yellow text-oxigeno-black font-bold px-8 py-4 rounded-lg hover:bg-oxigeno-yellowDark transition-all transform hover:scale-105 tracking-wider"
         >
-          RESERVAR TURNO
+          RESERVA TU CLASE
         </a>
 
         <a
