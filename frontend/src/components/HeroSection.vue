@@ -50,6 +50,15 @@
         </a>
 
         <a
+          href="https://guemesgym.misactividades.com/#home"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-block bg-oxigeno-yellow text-oxigeno-black font-bold px-8 py-4 rounded-lg hover:bg-oxigeno-yellowDark transition-all transform hover:scale-105 tracking-wider"
+        >
+          RESERVAR TURNO
+        </a>
+
+        <a
           :href="waLink"
           target="_blank"
           rel="noopener noreferrer"
