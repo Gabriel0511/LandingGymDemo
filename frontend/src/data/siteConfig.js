@@ -1,5 +1,5 @@
 export const siteConfig = {
-  heroTitle: "GYM",
+  heroTitle: "Guemes GYM",
   heroSubtitle: "Transformá tu vida con el mejor entrenamiento",
   whatsappNumber: "5492975000000",
   addressText: "Córdoba, Argentina",

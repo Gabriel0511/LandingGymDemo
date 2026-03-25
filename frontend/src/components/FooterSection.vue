@@ -37,7 +37,7 @@
         </div>
 
         <p class="text-oxigeno-gray text-sm">
-          © 2026 Oxígeno Cde. Todos los derechos reservados.
+          © 2026 Guemes Gym - Todos los derechos reservados.
         </p>
       </div>
     </div>
